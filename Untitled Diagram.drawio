@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-13T02:15:03.357Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.4062.3 Safari/537.36" etag="uq2sGRjKqgzekQ4v-eW5" version="12.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-13T02:21:58.655Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.4062.3 Safari/537.36" etag="MLCV_sQNLCNtmZgUReFU" version="12.8.4" type="github">
   <diagram id="eJTscD4Qs9-GztQQ6QcY" name="Page-1">
     <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="JvxghQBs3nzyEFV9q4uE-1" value="&lt;span&gt;Dell&amp;nbsp;&lt;/span&gt;&lt;span&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;PowerEdge R740xd&amp;nbsp;&lt;br&gt;256+48T&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="420" width="176" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="JvxghQBs3nzyEFV9q4uE-4" value="数据库服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JvxghQBs3nzyEFV9q4uE-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="130" width="275" height="130" as="geometry" />
         </mxCell>
         <mxCell id="JvxghQBs3nzyEFV9q4uE-5" value="NTFS&lt;br&gt;YARN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -18,6 +18,12 @@
         </mxCell>
         <mxCell id="JvxghQBs3nzyEFV9q4uE-7" value="&lt;span style=&quot;white-space: normal&quot;&gt;NTFS&lt;/span&gt;&lt;br style=&quot;white-space: normal&quot;&gt;&lt;span style=&quot;white-space: normal&quot;&gt;YARN&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="610" width="275" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JvxghQBs3nzyEFV9q4uE-8" value="数据库服务器,安装" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="447.5" y="100" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JvxghQBs3nzyEFV9q4uE-9" value="mysql8.0.11" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
